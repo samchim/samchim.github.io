@@ -1,2 +1,3 @@
 # samchim.github.io
-A testing blog project using NEAT stack
+
+A testing blog project
